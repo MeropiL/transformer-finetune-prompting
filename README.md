@@ -13,11 +13,6 @@ The study evaluates performance, computational cost, and output stability across
 
 NLI is formulated as a three-class classification problem (entailment, contradiction, neutral), where the goal is to determine the semantic relationship between a premise and a hypothesis.
 
-## Directory Structure
-LampropoulouM_fine_tuning . ipynb
-LampropoulouM_prompting . ipynb (includes discussion of results)
-README . md
-
 
 ## Versions
 Python : 3.12.12
